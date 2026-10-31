@@ -72,12 +72,6 @@ keeping it up to date for you.
 
 
 
-
-
-
-
-
-
 [docs]: https://opentelemetry.io/docs/demo/
 
 <!-- Links for Demos featuring the Astronomy Shop section -->
